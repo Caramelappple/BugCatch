@@ -11,18 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b14e83f5-56f7-485b-a608-5c7b326061b7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonSO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonSO.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_TasteSO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_TasteSO.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugSO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugSO.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_RarityEnum.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_RarityEnum.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonTextSO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonTextSO.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_GenderChac.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_GenderChac.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/LSO_BaseCharacter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/LSO_BaseCharacter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/LSO_TasteSO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_Gender.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_Gender.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BugCatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BugCatch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonSO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_TasteSO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_TasteSO.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/LSO_TasteSO.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugSO.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +38,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonSO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_TasteEnum.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_TasteSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonTextSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_GenderChac.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -65,7 +69,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "LSO",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -120,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790853471836</updated>
-      <workItem from="1790853471838" duration="2787000" />
+      <workItem from="1790853471838" duration="6067000" />
     </task>
     <servers />
   </component>
