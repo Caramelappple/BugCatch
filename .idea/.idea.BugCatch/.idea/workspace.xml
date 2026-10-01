@@ -12,7 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b14e83f5-56f7-485b-a608-5c7b326061b7" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BugCatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BugCatch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugSO.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1790853471836</updated>
       <workItem from="1790853471838" duration="7856000" />
-      <workItem from="1790897463542" duration="325000" />
+      <workItem from="1790897463542" duration="989000" />
     </task>
     <servers />
   </component>

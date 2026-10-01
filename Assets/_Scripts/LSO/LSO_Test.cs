@@ -13,6 +13,7 @@ namespace _Scripts.LSO
         [ContextMenu("Test")]
         public void Test()
         {
+            bool t = true;
             foreach (LSO_BaseCharacter character in personData.Taste.characters)
             {
                 if (character.Comfort(bugData))
@@ -21,9 +22,13 @@ namespace _Scripts.LSO
                     continue;
                 }
                 Debug.Log("실패");
+                t = false;
 
                 break;
             }
+            
+            if (t)
+                print((bugData.defaultPrice + personData.Taste.bonusMoney).ToString());
         }
     }
 }
