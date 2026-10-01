@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a25268c5b3c841fea5c7f4c841167825, type: 3}
-  m_Name: GenderChac
-  m_EditorClassIdentifier: Assembly-CSharp::_Scripts.LSO.Auction.Data.Taste.Character.LSO_GenderChac
-  characterName: "\uC131\uBCC4"
-  gender: 1
+  m_Script: {fileID: 11500000, guid: e14010eaa94a42aba82862510e14c541, type: 3}
+  m_Name: FlyTypeChac
+  m_EditorClassIdentifier: Assembly-CSharp::_Scripts.LSO.Auction.Data.Taste.Character.LSO_BugTypeChac
+  characterName: "\uB0A0\uBC8C\uB808"
+  bugType: 0

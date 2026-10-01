@@ -11,6 +11,7 @@ namespace _Scripts.LSO.Bug.Data
                                && icon != null
                                && rarity != default
                                && gender != LSO_GenderType.Unknown
+                               && bugType != default
                                && gender != default;
         
         public string bugName;
@@ -21,5 +22,6 @@ namespace _Scripts.LSO.Bug.Data
         [Range(1, 13)] public int age;
         public LSO_RarityEnum rarity;
         public LSO_GenderType gender;
+        public LSO_BugType bugType;
     }
 }

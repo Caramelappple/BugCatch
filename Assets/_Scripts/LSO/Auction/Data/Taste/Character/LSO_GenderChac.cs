@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace _Scripts.LSO.Auction.Data.Taste.Character
 {
-    [CreateAssetMenu(fileName = "GenderChac", menuName = "LSO/Taste/Gender", order = 0)]
+    [CreateAssetMenu(fileName = "GenderChac", menuName = "LSO/Auction/Chac", order = 0)]
     public sealed class LSO_GenderChac : LSO_BaseCharacter
     {
         public LSO_GenderType gender;

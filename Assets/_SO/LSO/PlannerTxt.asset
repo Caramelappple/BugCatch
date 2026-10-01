@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f9bbc7d7fd044f9f809f100e31435cde, type: 3}
-  m_Name: New PersonText SO
+  m_Name: PlannerTxt
   m_EditorClassIdentifier: Assembly-CSharp::_Scripts.LSO.Auction.Data.LSO_PersonTextSO
   raiseTexts: []
   failTexts: []

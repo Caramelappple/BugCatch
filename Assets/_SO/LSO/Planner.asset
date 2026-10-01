@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 497b0a9d018249f6be6e3281b53c4f81, type: 3}
-  m_Name: New PersonSO
+  m_Name: Planner
   m_EditorClassIdentifier: Assembly-CSharp::_Scripts.LSO.Auction.Data.LSO_PersonSO
   personName: "\uB098\uC2B9\uC9C0"
-  Taste: {fileID: 0}
+  Taste: {fileID: 11400000, guid: c960d53d6b263294ab3d4ad2da71e0cd, type: 2}
   personText: {fileID: 11400000, guid: f408d60f3becec54dbdd787c539c39ef, type: 2}

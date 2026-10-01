@@ -10,13 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 65c30554ce9041ef8dd581a6d0ab5807, type: 3}
-  m_Name: New BugSO
+  m_Name: Fly
   m_EditorClassIdentifier: Assembly-CSharp::_Scripts.LSO.Bug.Data.LSO_BugSO
-  bugName: "\uB625\uD30C\uB9AC"
+  bugName: "\uC0E4\uB9C1"
   description: "\uBA4B\uC9C4 \uBC8C\uB808"
   icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
   defaultPrice: 100
   weight: 1
-  age: 1
+  age: 12
   rarity: 0
-  gender: 1
+  gender: 2
+  bugType: 0
