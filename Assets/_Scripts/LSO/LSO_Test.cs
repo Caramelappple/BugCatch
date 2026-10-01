@@ -20,6 +20,7 @@ namespace _Scripts.LSO
                     Debug.Log("통과");
                     continue;
                 }
+                Debug.Log("실패");
 
                 break;
             }

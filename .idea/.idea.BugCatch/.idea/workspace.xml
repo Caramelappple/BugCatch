@@ -11,27 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b14e83f5-56f7-485b-a608-5c7b326061b7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_AgeChac.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_AgeChac.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_BugTypeChac.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_BugTypeChac.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugType.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BugCatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BugCatch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/GenderChac.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/GenderChac.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/New BugSO.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/New BugSO.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/New PersonSO.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/New PersonSO.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/New PersonText SO.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/New PersonText SO.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/TasteSO.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/TasteSO.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_GenderChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_GenderChac.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugSO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +36,10 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3K5hjCRyAItBERL8KQZwLyoB4e4" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -66,28 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "LSO",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;LSO&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Unity 에디터에 연결.Unity 에디터에 연결">
     <configuration name="유닛 테스트(배치 모드)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.3.20f1\Editor\Unity.exe" />
@@ -133,7 +115,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790853471836</updated>
-      <workItem from="1790853471838" duration="7844000" />
+      <workItem from="1790853471838" duration="7856000" />
+      <workItem from="1790897463542" duration="325000" />
     </task>
     <servers />
   </component>

@@ -7,12 +7,7 @@ namespace _Scripts.LSO.Bug.Data
     {
         //데이터가 유효한지 확인
         public bool IsAble => !string.IsNullOrEmpty(bugName)
-                               && !string.IsNullOrEmpty(description)
-                               && icon != null
-                               && rarity != default
-                               && gender != LSO_GenderType.Unknown
-                               && bugType != default
-                               && gender != default;
+                              && !string.IsNullOrEmpty(description);
         
         public string bugName;
         [TextArea(3,10)]public string description;
