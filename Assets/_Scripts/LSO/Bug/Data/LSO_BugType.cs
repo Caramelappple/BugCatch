@@ -7,6 +7,7 @@ namespace _Scripts.LSO.Bug.Data
     {
         Flying,
         Ground,
-        Armor
+        Armor,
+        Water
     }
 }

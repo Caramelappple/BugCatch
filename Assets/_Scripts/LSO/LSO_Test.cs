@@ -7,7 +7,7 @@ namespace _Scripts.LSO
 {
     public class LSO_Test : MonoBehaviour
     {
-        public LSO_BugSO bugData;
+        public LSO_TaxidermySO taxidermyData;
         public LSO_PersonSO personData;
 
         [ContextMenu("Test")]
@@ -16,7 +16,7 @@ namespace _Scripts.LSO
             bool t = true;
             foreach (LSO_BaseCharacter character in personData.Taste.characters)
             {
-                if (character.Comfort(bugData))
+                if (character.Comfort(taxidermyData.bugData))
                 {
                     Debug.Log("통과");
                     continue;
@@ -28,7 +28,10 @@ namespace _Scripts.LSO
             }
             
             if (t)
-                print((bugData.defaultPrice + personData.Taste.bonusMoney).ToString());
+                print((taxidermyData.bugData.defaultPrice 
+                       + personData.Taste.bonusMoney
+                       + taxidermyData.frameData.bonusPrice) 
+                      * taxidermyData.frameData.bonusMultiplier);
         }
     }
 }

@@ -14,7 +14,7 @@ namespace _Scripts.LSO.Bug.Data
         //박제본에 부여하는 보너스 머니
         public int bonusPrice;
         //박제본에 곱해주는 보너스 멀티플라이어
-        public int bonusMultiplier;
+        public int bonusMultiplier = 1;
         ////곱하기 먼저 연산하기 여부(기본값 false: 나중에 곱하기)
         //public bool multiFirst;
         //프레임의 희귀도
