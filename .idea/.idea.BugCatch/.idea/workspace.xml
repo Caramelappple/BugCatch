@@ -11,8 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b14e83f5-56f7-485b-a608-5c7b326061b7" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_FrameSO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_FrameSO.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_TaxidermySO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_TaxidermySO.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BugCatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BugCatch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +32,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_BugTypeChac.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_GenderChac.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_FrameSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_TaxidermySO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
@@ -115,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1790853471836</updated>
       <workItem from="1790853471838" duration="7856000" />
-      <workItem from="1790897463542" duration="989000" />
+      <workItem from="1790897463542" duration="1990000" />
     </task>
     <servers />
   </component>
