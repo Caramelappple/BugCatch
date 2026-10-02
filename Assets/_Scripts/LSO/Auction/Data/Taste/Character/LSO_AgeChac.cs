@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace _Scripts.LSO.Auction.Data.Taste.Character
 {
-    [CreateAssetMenu(fileName = "AgeChac", menuName = "LSO/Auction/AgeChac", order = 0)]
+    [CreateAssetMenu(fileName = "New AgeChacSO", menuName = "LSO/Auction/AgeChac", order = 0)]
     public class LSO_AgeChac : LSO_BaseCharacter
     {
         [Header("나이의 범위값, 포함시켜서 계산한다")]
