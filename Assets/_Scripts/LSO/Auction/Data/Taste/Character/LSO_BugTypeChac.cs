@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace _Scripts.LSO.Auction.Data.Taste.Character
 {
-    [CreateAssetMenu(fileName = "BugTypeChac", menuName = "LSO/Auction/BugTypeChac", order = 0)]
+    [CreateAssetMenu(fileName = "New BugTypeChacSO", menuName = "LSO/Auction/BugTypeChac", order = 0)]
     public class LSO_BugTypeChac : LSO_BaseCharacter
     {
         public LSO_BugType bugType;
