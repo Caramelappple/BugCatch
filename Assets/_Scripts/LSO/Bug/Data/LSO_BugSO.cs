@@ -12,7 +12,7 @@ namespace _Scripts.LSO.Bug.Data
         public string bugName;
         [TextArea(3,10)]public string description;
         public Sprite icon;
-        public int defaultPrice;
+        [Min(0)]public int defaultPrice;
         [Range(1, 3000)] public int weight;
         [Range(1, 13)] public int age;
         public LSO_RarityEnum rarity;

@@ -129,6 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1360404239}
   - component: {fileID: 1360404238}
+  - component: {fileID: 1360404240}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -148,7 +149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be96f0e2eca44458b83da1349c56f133, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::_Scripts.LSO.LSO_Test
-  bugData: {fileID: 11400000, guid: 7747ccce7b2c45c419df8fbeb59b6804, type: 2}
+  taxidermyData: {fileID: 0}
   personData: {fileID: 11400000, guid: c0083c17a934d6043b055d8ce4655873, type: 2}
 --- !u!4 &1360404239
 Transform:
@@ -165,6 +166,24 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1360404240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1360404237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a8012a369a44616a9aa086caee4b2ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::_Scripts.LSO.Auction.LSO_PersonSelector
+  maxPeoplePerRounds: 0
+  persons:
+  - {fileID: 11400000, guid: c0083c17a934d6043b055d8ce4655873, type: 2}
+  - {fileID: 11400000, guid: c0083c17a934d6043b055d8ce4655873, type: 2}
+  - {fileID: 11400000, guid: c0083c17a934d6043b055d8ce4655873, type: 2}
+  - {fileID: 11400000, guid: c0083c17a934d6043b055d8ce4655873, type: 2}
 --- !u!1 &1761448048
 GameObject:
   m_ObjectHideFlags: 0
