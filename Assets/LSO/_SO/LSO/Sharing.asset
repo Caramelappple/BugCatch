@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 661bcd884e6a49778b4641a1dc9c612d, type: 3}
+  m_Name: Sharing
+  m_EditorClassIdentifier: Assembly-CSharp::_Scripts.LSO.Auction.Data.Taste.LSO_TasteSO
+  tasteName: "\uC0E4\uB9C1"
+  bonusMoney: 500
+  characters:
+  - {fileID: 11400000, guid: 3e3266f172c8ee847ba80673d1b4947f, type: 2}
+  - {fileID: 11400000, guid: 5f8ad8eb45059894ea5530c4a9d4243f, type: 2}
+  - {fileID: 11400000, guid: 832ff8f04648db94e8ede7981440ff6b, type: 2}
