@@ -1,14 +1,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using _Scripts.LSO.Auction.Data;
+using _Scripts.LSO.Auction.Person.Data;
 using UnityEngine;
 
-namespace _Scripts.LSO.Auction
+namespace _Scripts.LSO.Auction.PersonTable
 {
-    public class LSO_PersonTable : MonoBehaviour
+    [CreateAssetMenu(fileName = "PersonTableSO", menuName = "LSO/PersonTableSO")]
+    public class LSO_PersonTableSO : ScriptableObject
     {
-        public int maxPeoplePerRounds;
-        
         [SerializeField]private LSO_PersonSO[] persons;
         public IReadOnlyList<LSO_PersonSO> Persons => persons.ToList();
     }

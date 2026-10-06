@@ -1,3 +1,5 @@
+using _Scripts.LSO.Auction.Taste.Character;
+using _Scripts.LSO.Bug;
 using _Scripts.LSO.Bug.Data;
 using UnityEngine;
 
@@ -8,12 +10,12 @@ namespace _Scripts.LSO.Auction.Data.Taste.Character
     {
         public LSO_GenderType gender;
 
-        public override bool Comfort(LSO_BugSO data)
+        public override bool Comfort(LSO_BugInstance data)
         {
-            if (!data.IsAble)
+            if (!data.Bug.IsAble)
                 return false;
             
-            return data.gender == gender;
+            return data.Gender == gender;
         }
     }
 }

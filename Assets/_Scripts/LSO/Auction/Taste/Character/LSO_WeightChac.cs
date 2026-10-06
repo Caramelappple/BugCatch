@@ -1,4 +1,5 @@
-using _Scripts.LSO.Bug.Data;
+using _Scripts.LSO.Auction.Taste.Character;
+using _Scripts.LSO.Bug;
 using UnityEngine;
 
 namespace _Scripts.LSO.Auction.Data.Taste.Character
@@ -10,12 +11,12 @@ namespace _Scripts.LSO.Auction.Data.Taste.Character
         public int minWeight;
         public int maxWeight;
         
-        public override bool Comfort(LSO_BugSO data)
+        public override bool Comfort(LSO_BugInstance data)
         {
-            if (!data.IsAble)
+            if (!data.Bug.IsAble)
                 return false;
             
-            return minWeight <= data.weight && data.weight < maxWeight;
+            return minWeight <= data.Weight && data.Weight <= maxWeight;
         }
     }
 }

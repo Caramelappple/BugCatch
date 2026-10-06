@@ -1,3 +1,5 @@
+using _Scripts.LSO.Auction.Taste.Character;
+using _Scripts.LSO.Bug;
 using _Scripts.LSO.Bug.Data;
 using UnityEngine;
 
@@ -7,13 +9,13 @@ namespace _Scripts.LSO.Auction.Data.Taste.Character
     public class LSO_RairityChac : LSO_BaseCharacter
     {
         public LSO_RarityEnum rarity;
-        
-        public override bool Comfort(LSO_BugSO data)
+
+        public override bool Comfort(LSO_BugInstance data)
         {
-            if (data.IsAble)
+            if (!data.Bug.IsAble)
                 return false;
             
-            return data.rarity == rarity;
+            return data.Bug.rarity == rarity;
         }
     }
 }

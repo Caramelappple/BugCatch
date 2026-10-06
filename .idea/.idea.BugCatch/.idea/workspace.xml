@@ -11,45 +11,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b14e83f5-56f7-485b-a608-5c7b326061b7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_Auction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_Auction.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionStartEffect.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionStartEffect.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionSuccessEffect.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionSuccessEffect.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/LSO_ItemWeightPicker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/LSO_ItemWeightPicker.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/LSO_PersonTable.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/LSO_PersonTable.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Data.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_WeightableSO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_WeightableSO.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data/LSO_AuctionConfigSO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data/LSO_AuctionConfigSO.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/View.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/LSO_BugInstance.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/LSO_BugInstance.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Taxidermy.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Taxidermy/LSO_TaxidermyData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Taxidermy/LSO_TaxidermyData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/UI.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BugCatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BugCatch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_SO/LSO/New TaxidermySO.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_SO/LSO/New TaxidermySO.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Scenes/LSO/LSO_TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/LSO/LSO_TestScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data/LSO_PersonSO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonSO.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data/LSO_PersonSO.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonTextSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data/LSO_PersonTextSO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonTextSO.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data/LSO_PersonTextSO.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_AgeChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_AgeChac.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_AgeChac.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_AgeChac.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_BugTypeChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_BugTypeChac.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_BugTypeChac.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_BugTypeChac.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_GenderChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_GenderChac.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_GenderChac.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_GenderChac.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_RairityChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_RairityChac.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_RairityChac.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_RairityChac.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_WeightChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_WeightChac.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_WeightChac.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_WeightChac.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/LSO_BaseCharacter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Data/LSO_BaseCharacter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/LSO_BaseCharacter.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Data/LSO_BaseCharacter.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/LSO_TasteSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Data/LSO_TasteSO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/LSO_TasteSO.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Data/LSO_TasteSO.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_Auction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/View/LSO_AuctionSimulator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_Auction.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/View/LSO_AuctionSimulator.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionDirector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/View/LSO_AuctionDirector.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionDirector.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/View/LSO_AuctionDirector.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionStartEffect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/View/LSO_AuctionStartEffect.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionStartEffect.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/View/LSO_AuctionStartEffect.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionSuccessEffect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/View/LSO_AuctionSuccessEffect.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionSuccessEffect.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/View/LSO_AuctionSuccessEffect.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data/LSO_PersonSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data/LSO_PersonSO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/LSO_ItemWeightPicker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_ItemWeightPicker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/LSO_ItemWeightPicker.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_ItemWeightPicker.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/LSO_PersonTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data/LSO_PersonTableSO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/LSO_PersonTable.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Person/Data/LSO_PersonTableSO.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_AgeChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_AgeChac.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_BugTypeChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_BugTypeChac.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_GenderChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_GenderChac.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_RairityChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_RairityChac.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_WeightChac.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Character/LSO_WeightChac.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Data/LSO_BaseCharacter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Data/LSO_BaseCharacter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Data/LSO_TasteSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Taste/Data/LSO_TasteSO.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugSO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_FrameSO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_FrameSO.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_TaxidermySO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_TaxidermySO.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +61,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_Auction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionStartEffect.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/LSO_AuctionSuccessEffect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_FrameSO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_TaxidermySO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Taxidermy/LSO_TaxidermyData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -153,7 +149,9 @@
       <updated>1790853471836</updated>
       <workItem from="1790853471838" duration="7856000" />
       <workItem from="1790897463542" duration="11984000" />
-      <workItem from="1791206138198" duration="1826000" />
+      <workItem from="1791206138198" duration="4423000" />
+      <workItem from="1791242996901" duration="10650000" />
+      <workItem from="1791276795785" duration="827000" />
     </task>
     <servers />
   </component>

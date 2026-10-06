@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41618c5228b24689aedc6043153525f0, type: 3}
   m_Name: New TaxidermySO
   m_EditorClassIdentifier: Assembly-CSharp::_Scripts.LSO.Bug.Data.LSO_TaxidermySO
-  bugData: {fileID: 0}
+  bugData: {fileID: 11400000, guid: 7747ccce7b2c45c419df8fbeb59b6804, type: 2}
   accuracy: 0
-  frameData: {fileID: 0}
+  frameData: {fileID: 11400000, guid: 807bcd82a480d0949b900329efc84e64, type: 2}

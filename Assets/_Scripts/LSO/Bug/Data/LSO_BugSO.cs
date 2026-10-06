@@ -13,10 +13,14 @@ namespace _Scripts.LSO.Bug.Data
         [TextArea(3,10)]public string description;
         public Sprite icon;
         [Min(0)]public int defaultPrice;
-        [Range(1, 3000)] public int weight;
-        [Range(1, 13)] public int age;
         public LSO_RarityEnum rarity;
-        public LSO_GenderType gender;
         public LSO_BugType bugType;
+
+        public int minAge;
+        public int maxAge;
+        public int minWeight;
+        public int maxWeight;
+        [Header("Unknown이면 Data에서 램덤으로 정해줌, 다른 값을 넣으면 무조건 그 값만 나오게 됨")]
+        public LSO_GenderType gender = LSO_GenderType.Unknown;
     }
 }

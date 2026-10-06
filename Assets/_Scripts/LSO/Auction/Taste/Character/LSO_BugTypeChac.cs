@@ -1,3 +1,5 @@
+using _Scripts.LSO.Auction.Taste.Character;
+using _Scripts.LSO.Bug;
 using _Scripts.LSO.Bug.Data;
 using UnityEngine;
 
@@ -7,13 +9,14 @@ namespace _Scripts.LSO.Auction.Data.Taste.Character
     public class LSO_BugTypeChac : LSO_BaseCharacter
     {
         public LSO_BugType bugType;
-        
-        public override bool Comfort(LSO_BugSO data)
+
+
+        public override bool Comfort(LSO_BugInstance data)
         {
-            if (!data .IsAble)
+            if (!data.Bug.IsAble)
                 return false;
 
-            return data.bugType == bugType;
+            return data.Bug.bugType.HasFlag(bugType);
         }
     }
 }
