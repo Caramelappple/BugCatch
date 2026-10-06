@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using _Scripts.LSO.Auction.Domain;
 using _Scripts.LSO.Auction.Person;
 using _Scripts.LSO.Auction.Person.Data;
 using _Scripts.LSO.Auction.PersonTable;
