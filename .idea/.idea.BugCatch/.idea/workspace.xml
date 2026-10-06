@@ -10,7 +10,10 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b14e83f5-56f7-485b-a608-5c7b326061b7" name="변경" comment="" />
+    <list default="true" id="b14e83f5-56f7-485b-a608-5c7b326061b7" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Domain/LSO_AuctionSimulator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Domain/LSO_AuctionSimulator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LSO/UI.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +23,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonSO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/LSO_PersonTextSO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_AgeChac.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_BugTypeChac.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Data/Taste/Character/LSO_GenderChac.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Domain/AuctionResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Domain/IBalanceCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Domain/IBidderSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Domain/ITaxidermyValueCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Auction/Domain/LSO_AuctionSimulator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_BugType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_FrameSO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Bug/Data/LSO_TaxidermySO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/LSO_Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LSO/Taxidermy/LSO_TaxidermyData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -58,7 +59,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "NKY",
+    "git-widget-placeholder": "base",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -114,7 +115,11 @@
       <option name="presentableId" value="Default" />
       <updated>1790853471836</updated>
       <workItem from="1790853471838" duration="7856000" />
-      <workItem from="1790897463542" duration="2508000" />
+      <workItem from="1790897463542" duration="11984000" />
+      <workItem from="1791206138198" duration="4423000" />
+      <workItem from="1791242996901" duration="10650000" />
+      <workItem from="1791276795785" duration="3081000" />
+      <workItem from="1791292040065" duration="1645000" />
     </task>
     <servers />
   </component>
