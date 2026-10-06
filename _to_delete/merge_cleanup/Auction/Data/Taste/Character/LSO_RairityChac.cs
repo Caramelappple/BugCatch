@@ -1,0 +1,21 @@
+using _Scripts.LSO.Auction.Taste.Character;
+using _Scripts.LSO.Bug;
+using _Scripts.LSO.Bug.Data;
+using UnityEngine;
+
+namespace _Scripts.LSO.Auction.Data.Taste.Character
+{
+    [CreateAssetMenu(fileName = "New RarityChacSO", menuName = "LSO/Auction/RarityChac", order = 0)]
+    public class LSO_RairityChac : LSO_BaseCharacter
+    {
+        public LSO_RarityEnum rarity;
+
+        public override bool Comfort(LSO_BugInstance data)
+        {
+            if (!data.Bug.IsAble)
+                return false;
+            
+            return data.Bug.rarity == rarity;
+        }
+    }
+}
