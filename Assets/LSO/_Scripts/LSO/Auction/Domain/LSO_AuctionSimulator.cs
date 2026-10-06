@@ -23,7 +23,7 @@ namespace _Scripts.LSO.Auction.Domain
 
         public AuctionResult Simulate(List<LSO_TaxidermyData> taxidermy, List<LSO_PersonSO> persons)
         {
-            
+            return new AuctionResult();
         }
     }
 }
