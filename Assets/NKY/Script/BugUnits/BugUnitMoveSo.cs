@@ -7,6 +7,8 @@ namespace NKY.Script.BugUnits
     {
         public Sprite bugSprite;
         [Min(0)] public float moveSpeed;
-        [Range(0, 90)] public float maxReflectAngle;
+        [Range(0, 90f)] public float reflectAngle;
+        [Range(0.5f, 10f)] public float turnDelay;
+        [Range(0, 180f)] public float turnAngle;
     }
 }
