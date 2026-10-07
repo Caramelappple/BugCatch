@@ -1,5 +1,6 @@
 using _Scripts.LSO.Bug;
 using _Scripts.LSO.Bug.Data;
+using LSO._Scripts.LSO.Bug;
 using UnityEngine;
 
 namespace _Scripts.LSO.Auction.Taste.Character

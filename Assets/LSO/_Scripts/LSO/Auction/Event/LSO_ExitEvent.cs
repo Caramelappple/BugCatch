@@ -1,14 +1,19 @@
-using _Scripts.LSO.Auction.Person.Data;
+using LSO._Scripts.LSO.Auction.Person.Data;
 
-namespace _Scripts.LSO.Auction.Event
+namespace LSO._Scripts.LSO.Auction.Event
 {
     public class LSO_ExitEvent : LSO_AuctionEvent
     {
-        public readonly LSO_PersonSO person;
+        public readonly LSO_PersonSO Person;
 
         public LSO_ExitEvent(LSO_PersonSO person)
         {
-            this.person = person;
+            this.Person = person;
+        }
+
+        public override void Notify(IAuctionEventListener listener)
+        {
+            listener.Exit(this);
         }
     }
 }

@@ -1,10 +1,10 @@
 using System.Collections.Generic;
-using _Scripts.LSO.Auction.Person.Data;
+using LSO._Scripts.LSO.Auction.Person.Data;
 
-namespace _Scripts.LSO.Auction.Domain
+namespace LSO._Scripts.LSO.Auction.Domain
 {
     public interface IBidderSelector
     {
-        public LSO_PersonSO SelectPerson(List<LSO_PersonSO> persons);
+        public LSO_PersonSO SelectPerson(IReadOnlyList<BidCandidate> candidates);
     }
 }

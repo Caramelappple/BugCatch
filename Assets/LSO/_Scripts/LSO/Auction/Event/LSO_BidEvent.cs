@@ -1,16 +1,21 @@
-using _Scripts.LSO.Auction.Person.Data;
+using LSO._Scripts.LSO.Auction.Person.Data;
 
-namespace _Scripts.LSO.Auction.Event
+namespace LSO._Scripts.LSO.Auction.Event
 {
     public class LSO_BidEvent : LSO_AuctionEvent
     {
-        public readonly LSO_PersonSO person;
-        public readonly int bidPrice;
+        public readonly LSO_PersonSO Person;
+        public readonly int BidPrice;
 
         public LSO_BidEvent(LSO_PersonSO person, int bidPrice)
         {
-            this.person = person;
-            this.bidPrice = bidPrice;
+            this.Person = person;
+            this.BidPrice = bidPrice;
+        }
+
+        public override void Notify(IAuctionEventListener listener)
+        {
+            listener.Bid(this);
         }
     }
 }

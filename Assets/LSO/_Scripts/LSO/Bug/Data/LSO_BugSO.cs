@@ -22,5 +22,22 @@ namespace _Scripts.LSO.Bug.Data
         public int maxWeight;
         [Header("Unknown이면 Data에서 램덤으로 정해줌, 다른 값을 넣으면 무조건 그 값만 나오게 됨")]
         public LSO_GenderType gender = LSO_GenderType.Unknown;
+
+        private void OnValidate()
+        {
+            if (minAge < 0)
+                minAge = 0;
+            if (maxAge < 0)
+                maxAge = 0;
+            if (minAge > maxAge)
+                minAge = maxAge;
+            
+            if  (minWeight < 0)
+               minWeight = 0;
+            if (maxWeight < 0)
+               maxWeight = 0;
+            if (minWeight > maxWeight)
+                minWeight = maxWeight;
+        }
     }
 }

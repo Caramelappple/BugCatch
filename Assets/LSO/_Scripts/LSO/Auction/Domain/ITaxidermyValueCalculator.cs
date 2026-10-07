@@ -1,5 +1,4 @@
-using _Scripts.LSO.Bug;
-using _Scripts.LSO.Taxidermy;
+using LSO._Scripts.LSO.Taxidermy;
 
 namespace _Scripts.LSO.Auction.Domain
 {
