@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using _Scripts.LSO.Auction.Data;
-using _Scripts.LSO.Auction.Person.Data;
+using LSO._Scripts.LSO.Auction.Person.Data;
 using UnityEngine;
 
 namespace _Scripts.LSO.Auction.PersonTable

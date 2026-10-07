@@ -1,13 +1,14 @@
+using _Scripts.LSO;
 using _Scripts.LSO.Auction.Data;
 using _Scripts.LSO.Auction.Taste.Data;
 using UnityEngine;
 
-namespace _Scripts.LSO.Auction.Person.Data
+namespace LSO._Scripts.LSO.Auction.Person.Data
 {
     /// <summary>
     /// 참가자의 정보들을 가지고 있는 SO
     /// </summary>
-    [CreateAssetMenu(fileName = "New PersonSO", menuName = "LSO/Auction/PersonSO", order = 0)]
+    [CreateAssetMenu(fileName = "New PersonSO", menuName = "LSO/Auction/Person", order = 0)]
     public sealed class LSO_PersonSO : LSO_WeightableSO
     {
         [Header("참가자의 이름")]

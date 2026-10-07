@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using _Scripts.LSO.Auction.Taste.Character;
 using _Scripts.LSO.Bug;
+using LSO._Scripts.LSO.Bug;
 using UnityEngine;
 
 namespace _Scripts.LSO.Auction.Taste.Data
@@ -15,7 +16,7 @@ namespace _Scripts.LSO.Auction.Taste.Data
     public sealed class LSO_TasteSO : ScriptableObject
     {
         public string tasteName;
-        public float bonusPercent;
+        public float bonusRate;
         public List<LSO_BaseCharacter> characters;
 
         public bool IsTasteComfort(LSO_BugInstance bug)

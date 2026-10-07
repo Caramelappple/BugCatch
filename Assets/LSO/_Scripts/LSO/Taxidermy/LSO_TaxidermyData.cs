@@ -1,8 +1,8 @@
 using System;
 using _Scripts.LSO.Bug;
-using _Scripts.LSO.Bug.Data;
+using LSO._Scripts.LSO.Bug;
 
-namespace _Scripts.LSO.Taxidermy
+namespace LSO._Scripts.LSO.Taxidermy
 {
     public readonly struct LSO_TaxidermyData
     {

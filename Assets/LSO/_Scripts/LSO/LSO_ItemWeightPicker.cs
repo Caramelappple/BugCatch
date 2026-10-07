@@ -1,7 +1,8 @@
 using System.Collections.Generic;
+using _Scripts.LSO;
 using UnityEngine;
 
-namespace _Scripts.LSO.Auction.Person
+namespace LSO._Scripts.LSO
 {
     /// <summary>
     /// 가중치 뽑기를 해주는 스태틱 클래스

@@ -1,7 +1,7 @@
 using _Scripts.LSO.Bug.Data;
 using UnityEngine;
 
-namespace _Scripts.LSO.Bug
+namespace LSO._Scripts.LSO.Bug
 {
     public readonly struct LSO_BugInstance
     {

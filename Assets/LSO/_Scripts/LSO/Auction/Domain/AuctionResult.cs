@@ -1,9 +1,9 @@
 using System.Collections.Generic;
-using _Scripts.LSO.Auction.Event;
-using _Scripts.LSO.Auction.Person.Data;
-using _Scripts.LSO.Taxidermy;
+using LSO._Scripts.LSO.Auction.Event;
+using LSO._Scripts.LSO.Auction.Person.Data;
+using LSO._Scripts.LSO.Taxidermy;
 
-namespace _Scripts.LSO.Auction.Domain
+namespace LSO._Scripts.LSO.Auction.Domain
 {
     public readonly struct AuctionResult
     {
@@ -26,6 +26,7 @@ namespace _Scripts.LSO.Auction.Domain
             {
                 Winner = null;
                 SoldPrice = 0;
+                SoldGroup = new List<LSO_TaxidermyData>();
             }
         }
     }
