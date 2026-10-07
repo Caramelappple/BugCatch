@@ -19,7 +19,11 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
+<<<<<<< HEAD
   m_Title: Project
+=======
+  m_Title: Hierarchy
+>>>>>>> base
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 332}
   m_MaxSize: {x: 10000, y: 10000}
@@ -198,7 +202,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 47
+  controlID: 38
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -1384,9 +1388,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 0.52892077, y: -0.59237623, z: 0.0672704}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 0.52892077, y: -0.59237623, z: 0.0672704}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1436,9 +1440,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 3.272947
     speed: 2
-    m_Value: 10
+    m_Value: 3.272947
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1567,7 +1571,7 @@ MonoBehaviour:
     m_DynamicPanelBehavior: 0
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 0
+  m_LastSelectedObjectID: -2482
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1617,7 +1621,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/NKY/Script/BugUnits
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1627,18 +1631,30 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
   - Assets
+=======
+  - Assets/NKY/Script/BugUnits
+>>>>>>> base
   m_LastFoldersGridSize: 64
   m_LastProjectPath: C:\unity\BugCatch
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 31}
     m_SelectedIDs:
     - m_Data: 38652
     m_LastClickedID:
       m_Data: 38652
+=======
+    scrollPos: {x: 0, y: 175}
+    m_SelectedIDs:
+    - m_Data: 43894
+    m_LastClickedID:
+      m_Data: 43894
+>>>>>>> base
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 43512
@@ -1651,6 +1667,10 @@ MonoBehaviour:
     - m_Data: 43526
     - m_Data: 43528
     - m_Data: 43530
+<<<<<<< HEAD
+=======
+    - m_Data: 43876
+>>>>>>> base
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1720,8 +1740,13 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
+<<<<<<< HEAD
     - m_Data: 55032
     m_LastClickedInstanceID: 55032
+=======
+    - m_Data: -2482
+    m_LastClickedInstanceID: -2482
+>>>>>>> base
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 0
